@@ -1,2 +1,1 @@
-# cvd-prediction
-final yr project 
+# Predicting-Heart-Disease
